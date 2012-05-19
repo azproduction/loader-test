@@ -1,0 +1,1 @@
+function $(a,b){return(b||document).querySelector(a)}require(["b-roster"],function(a){new a($("body"))})
