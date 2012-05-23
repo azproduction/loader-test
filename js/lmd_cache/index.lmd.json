@@ -12,5 +12,6 @@
     "lazy": true,
     "pack": true,
     "cache": true,
-    "version": "1.6.3-1"
+    "cache_async": true,
+    "version": "1.6.3-2"
 }
